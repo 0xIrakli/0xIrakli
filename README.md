@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 ![vscode](https://img.shields.io/badge/VScode-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![markdown](https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=yelow)
-| **Email**       | butu.irakli@gmail.com |
+|-----------------|------------------------|
+| **Email**       | butu.irakli@gmail.com  |
 | **Discord**     | Irakli#6496            |
 | **Matrix**      | @0xirakli:tchncs.de    |
 
