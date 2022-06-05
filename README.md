@@ -30,6 +30,6 @@ ___
 ___
 ### Contanct me:
  **Email**:   butu.irakli@gmail.com  
- **Discord**: Irakli#6496  
+ **Discord**: [Irakli#6496]()
  **Matrix**:  [@0xirakli:tchncs.de](https://matrix.to/#/@0xirakli:tchncs.de)  
 ___
