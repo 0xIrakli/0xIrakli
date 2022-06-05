@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 ![markdown](https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=yelow)
 
-***
+___
 #### Contanct me:
  **Email**:   butu.irakli@gmail.com  
  **Discord**: Irakli#6496  
  **Matrix**:  @0xirakli:tchncs.de  
-
+___
