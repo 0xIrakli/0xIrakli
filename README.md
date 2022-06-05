@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 ___
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![p5js](https://img.shields.io/badge/p5.js-ed225d?style=for-the-badge&logo=p5.js&logoColor=white)
