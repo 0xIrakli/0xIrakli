@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=yelow)
 
 
-*Contanct me:
+# Contanct me:
 Email:   butu.irakli@gmail.com
 Discord: Irakli#6496
 Matrix:  @0xirakli:tchncs.de
