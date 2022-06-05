@@ -28,7 +28,7 @@ ___
 ![linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=yelow)
 
 ___
-#### Contanct me:
+### Contanct me:
  **Email**:   butu.irakli@gmail.com  
  **Discord**: Irakli#6496  
  **Matrix**:  @0xirakli:tchncs.de  
