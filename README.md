@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 ___
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=white)
@@ -28,8 +28,10 @@ ___
 ![linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=yelow)
 
 ___
+
 #### Contanct me:
  **Email**:   butu.irakli@gmail.com  
  **Discord**: Irakli#6496  
  **Matrix**:  @0xirakli:tchncs.de  
+
 ___
