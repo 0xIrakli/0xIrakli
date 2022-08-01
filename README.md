@@ -15,19 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ___
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![p5js](https://img.shields.io/badge/p5.js-ed225d?style=for-the-badge&logo=p5.js&logoColor=white)
-![processing](https://img.shields.io/badge/processing-0f195a?style=for-the-badge&logo=processing&logoColor=white)
-![java](https://img.shields.io/badge/java-red?style=for-the-badge&logo=java&logoColor=white)
-![vscode](https://img.shields.io/badge/VScode-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
-![markdown](https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown&logoColor=white)
-![linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=yelow)
-
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ___
-### Contanct me:
+
+![](https://github-readme-stats.vercel.app/api?username=0xIrakli&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=0xIrakli&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xIrakli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=0xIrakli&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+[![](https://visitcount.itsvg.in/api?id=0xIrakli&icon=0&color=0)](https://visitcount.itsvg.in)
+___
+### Contact me:
  **Email**:   butu.irakli@gmail.com  
  **Discord**: [Irakli#6496](https://github.com/0xIrakli)  
  **Matrix**:  [@0xirakli:tchncs.de](https://matrix.to/#/@0xirakli:tchncs.de)  
