@@ -27,6 +27,6 @@ ___
 ___
 ### Contact me:
  **Email**:   butu.irakli@gmail.com  
- **Discord**: [Irakli#6496](https://github.com/0xIrakli)  
+ **Discord**: [Butu#6496](https://github.com/0xIrakli)  
  **Matrix**:  [@0xirakli:tchncs.de](https://matrix.to/#/@0xirakli:tchncs.de)  
 ___
