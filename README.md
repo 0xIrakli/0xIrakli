@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 ___
 ![C#](https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=Blender&logoColor=white)
@@ -30,5 +29,4 @@ ___
 ### Contact me:
  **Email**:   butu.irakli@gmail.com  
  **Discord**: [butu694](https://github.com/0xIrakli)  
- **Matrix**:  [@0xirakli:tchncs.de](https://matrix.to/#/@0xirakli:tchncs.de)  
 ___
