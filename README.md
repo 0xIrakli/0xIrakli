@@ -21,10 +21,6 @@ ___
 ![Blender](https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=Blender&logoColor=white)
 ___
 ![](https://github-readme-streak-stats.herokuapp.com/?user=0xIrakli&theme=dark&hide_border=false)<br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=0xIrakli&theme=discord&no-frame=true&no-bg=false&margin-w=4)
-[![](https://visitcount.itsvg.in/api?id=0xIrakli&icon=0&color=0)](https://visitcount.itsvg.in)
 ___
 ### Contact me:
  **Email**:   butu.irakli@gmail.com  
