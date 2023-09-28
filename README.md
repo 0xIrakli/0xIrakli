@@ -24,5 +24,4 @@ ___
 ___
 ### Contact me:
  **Email**:   butu.irakli@gmail.com  
- **Discord**: [butu694](https://github.com/0xIrakli)  
 ___
