@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 I'm 17 years old, been programming for about 5 years. Born and raised (still getting raised) in Georgia საქართველო.
 
-**I'm currently looking for my first web-dev job.** So, if you have an interesting idea for a **website**, get in touch!
+**I'm currently looking for my first freelance website order.** So, if you have an interesting idea for a **website**, get in touch!
 
   Website: **[irakli.butu.dev](https://irakli.butu.dev/)** | **[butu.dev](https://butu.dev/)**
   
