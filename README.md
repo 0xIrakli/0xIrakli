@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   
-I'm 17 years old, been programming for about 5 years _(cool right?)_. Born and still getting raised in **Georgia**|**საქართველო**.
+I'm 17 years old, been programming for about 5 years _(cool right?)_. Born and still getting raised in **Georgia**/**საქართველო**.
 
 Trying to improve _(almost)_ every day.
 
