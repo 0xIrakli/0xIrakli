@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   
 I'm 17 years old, been programming for about 5 years. Born and raised (still getting raised) in Georgia საქართველო.
+
 Trying to improve (almost) every day.
 
   
