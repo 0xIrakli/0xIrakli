@@ -32,4 +32,5 @@ Trying to improve _(almost)_ every day.
   https://butu.dev/
 
 
-  (btw I don't commit 20 times a day I just used amend a lot without -C HEAD before I knew this was a thing)
+(no, I don't commit 20 times a day.
+I just used amend a lot without -C HEAD before I knew this was a thing)
