@@ -22,15 +22,12 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   
 I'm 17 years old, been programming for about 5 years. Born and still getting raised in **Georgia**/**საქართველო**.
-
 Trying to improve _(almost)_ every day.
 
+(no, I don't commit 20 times a day,
+I just use --amend a lot)
   
   
   Email: butu.irakli@gmail.com
   
   https://butu.dev/
-
-
-(no, I don't commit 20 times a day.
-I just use(d) --amend a lot)
