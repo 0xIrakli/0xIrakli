@@ -25,4 +25,4 @@ I'm 17 years old, been programming for about 5 years. Born and still getting rai
 Trying to improve _(almost)_ every day.
 
 (I don't actually commit 20 times a day.
-I just use --amend a lot on creative decisions)
+I just --amend a lot)
